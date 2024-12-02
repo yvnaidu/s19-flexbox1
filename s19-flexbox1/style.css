@@ -1,0 +1,314 @@
+#container1{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(110, 170, 10, 0.7);
+    display: flex;
+    flex-direction: row;
+}
+
+#container2{
+    width: 300px;
+    height: 300px;
+    background-color: palegoldenrod;
+    display: flex;
+    flex-direction: column;
+}
+#container3{
+    width: 300px;
+    height: 300px;
+    background-color: paleturquoise;
+    display: flex;
+    flex-direction: row-reverse;
+}
+#container4{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(86, 60, 147, 0.7);
+    display: flex;
+    flex-direction: column-reverse;
+}
+#container5{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(49, 57, 37, 0.7);
+    display: flex;
+    flex-wrap: wrap;
+}
+#container6{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(183, 190, 162, 0.886);
+    display: flex;
+    flex-wrap: wrap-reverse;
+}
+#container7{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(157, 69, 85, 0.7);
+    display: flex;
+    flex-wrap: nowrap;
+}
+#container8{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(145, 78, 158, 0.7);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#container9{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(6, 66, 104, 0.7);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: start;
+}
+#container10{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(226, 15, 47, 0.7);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: end;
+}
+#container11{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(84, 147, 124, 0.7);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-content: center;
+}
+#container12{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(34, 5, 23, 0.7);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-content: end;
+}
+#container13{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(198, 212, 174, 0.7);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-content: start;
+}
+#container14{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(49, 1, 70, 0.7);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-content: end;
+}
+#container15{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(34, 6, 6, 0.429);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-content: center;
+    
+}
+#container16{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(198, 207, 32, 0.429);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-content: start;
+}
+
+#container17{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(128, 83, 116, 0.429);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: start;
+}
+
+#container18{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(212, 105, 10, 0.429);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+#container19{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(214, 215, 191, 0.429);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: end;
+}
+
+#container20{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(37, 10, 55, 0.429);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-content: start;
+}
+
+#container21{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(151, 213, 75, 0.429);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-content: center;
+}
+
+#container22{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(9, 53, 108, 0.429);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-content: end;
+}
+
+#container23{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(142, 149, 71, 0.429);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+#container24{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(233, 234, 215, 0.429);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: start;
+}
+
+#container25{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(54, 1, 21, 0.429);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: end;
+}
+
+#container26{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(83, 66, 72, 0.429);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-content: start;
+}
+
+#container27{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(134, 151, 143, 0.429);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-content: center;
+}
+
+#container28{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(88, 4, 72, 0.429);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-content: end;
+}
+
+#container29{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(200, 193, 195, 0.429);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-content: start;
+}
+
+#container30{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(129, 158, 32, 0.429);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-content: center;
+}
+
+#container31{
+    width: 300px;
+    height: 300px;
+    background-color: rgba(171, 198, 19, 0.429);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-content: end;
+}
+
+
+.item{
+    width: 30px;
+    height: 30px;
+    background-color: blueviolet;
+    color: azure;
+    border: 2px solid black;
+    font-size: 2rem;
+    text-align: center;
+}
